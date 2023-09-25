@@ -1,0 +1,15 @@
+from trinter  import *
+             
+ from time import strftime
+root= Tk()
+root.title("Horloge")
+ def time
+    string-strftime(*:3M4:XS %p*)
+    label.config( (text-string)
+    label.after(1000,time)
+
+
+label=Label(root, font=('arial',80), foreground='cyan', background='black')
+label.pack(enchor="center")
+time()
+mainloop()
